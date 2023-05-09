@@ -6,7 +6,7 @@ Primary style
 *, *::after, *::before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  color: #0d0d0d;
+  color: Black;
   box-sizing: border-box;
 }
 
